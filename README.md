@@ -21,5 +21,6 @@ The resulting visualizations offer valuable insights for HR professionals and or
 
 Here is a preview of the dashboard created in Power BI:
 
-![HR Dashboard](HR ANALYTICS DASHBOARD.png)
+<img src="HR ANALYTICS DASHBOARD.png" alt="HR Dashboard" />
+
 
