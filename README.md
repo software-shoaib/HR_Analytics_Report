@@ -1,5 +1,3 @@
-# HR_Analytics_Report
-
 # HR Analysis Report Dashboard - Power BI
 
 This repository showcases a comprehensive HR analysis project using Power BI. The analysis tackles key HR metrics such as employee turnover, trends in employee departures, and the underlying reasons behind those trends. The data is cleaned, transformed, and visualized in Power BI, with the goal of providing actionable insights for organizational growth.
@@ -24,3 +22,4 @@ The resulting visualizations offer valuable insights for HR professionals and or
 Here is a preview of the dashboard created in Power BI:
 
 ![HR Dashboard](HR ANALYTICS DASHBOARD.png)
+
