@@ -23,4 +23,4 @@ The resulting visualizations offer valuable insights for HR professionals and or
 
 Here is a preview of the dashboard created in Power BI:
 
-![HR Dashboard](background_gradiant_dashboard.jpg)
+![HR Dashboard](HR ANALYTICS DASHBOARD.png)
